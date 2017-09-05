@@ -7,7 +7,7 @@ There are two main cases that this project aims to take care of.
   -Program should push all pending commits. <br/>
   -Program should then attempt to make a commit for changes that have not yet been commited (possibly including new untracked files). <br/>
   -If there are conflicts program should halt shutdown process and get user input on how to deal with commit issues. <br/>
-  -Program should push commits.<br/>
+  -Program should push commits.
 
 2. User forgets to make commits or push existing commits before leaving for somewhere. 
   Requirements: 
